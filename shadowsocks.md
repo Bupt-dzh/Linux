@@ -11,6 +11,7 @@
 参考[SwitchOmega](https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList)
 
 此外代理服务器设置和第二步中local_address,local_port一致
+
 如果第二步是按照图片的设置的，那么这里就应该是
 ![代理服务器设置](/images/ProxyServerSettings.png)
 ### Step4 开启本地客户端，然后访问Google吧
